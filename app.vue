@@ -1,0 +1,32 @@
+<template>
+  <div class="w-[500px] border bg-black p-10">
+    <div
+      class="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-10 lg:grid-cols-5 gap-4 sm:gap-5 lg:gap-8"
+    >
+      <TechnologyBox
+        bg="#f4801f"
+        src="https://i.imgur.com/n5nIK2n_d.webp?maxwidth=760&fidelity=grand"
+      />
+      <TechnologyBox
+        src="https://static-00.iconduck.com/assets.00/logo-nodejs-icon-1755x2048-ejfcifdr.png"
+        bg="red"
+      />
+      <TechnologyBox
+        src="https://static-00.iconduck.com/assets.00/logo-nodejs-icon-1755x2048-ejfcifdr.png"
+        bg="red"
+      />
+      <TechnologyBox
+        src="https://static-00.iconduck.com/assets.00/logo-nodejs-icon-1755x2048-ejfcifdr.png"
+        bg="red"
+      />
+      <TechnologyBox
+        src="https://static-00.iconduck.com/assets.00/logo-nodejs-icon-1755x2048-ejfcifdr.png"
+        bg="red"
+      />
+      <TechnologyBox
+        src="https://static-00.iconduck.com/assets.00/logo-nodejs-icon-1755x2048-ejfcifdr.png"
+        bg="red"
+      />
+    </div>
+  </div>
+</template>
